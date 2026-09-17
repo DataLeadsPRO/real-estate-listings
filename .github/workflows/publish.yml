@@ -24,4 +24,4 @@ jobs:
       - uses: docker/build-push-action@v6
         with:
           push: true
-          tags: ghcr.io/dataleads/real-estate-listings-mcp:latest
+          tags: ghcr.io/dataleadspro/real-estate-listings-mcp:latest
